@@ -16,3 +16,5 @@ The goals was to build and compare some clustering methods:
 # Data overview:
 Premilinary data exploartion was presented in YYY folder
 
+--in work--
+
