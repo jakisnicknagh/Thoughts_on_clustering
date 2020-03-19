@@ -78,6 +78,6 @@ The goals was to build and compare some clustering methods:
 
 
 
-
+**Self Organising Map**
 
 --in work--
