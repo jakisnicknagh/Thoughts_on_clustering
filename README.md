@@ -56,6 +56,9 @@ The goals was to build and compare some clustering methods:
 |unique_obs	|571|	316|
 
 
+**Hierarchical clustering**
+
+![**Hierarchical clustering**](https://github.com/Fikus91/Thoughts_on_clustering/blob/master/3.%20Hierarchical_clustering/hierarchy_titanic_normalized.png.png)
 
 
 **DBSCAN**
