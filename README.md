@@ -12,9 +12,35 @@ The goals was to build and compare some clustering methods:
   - Hierarchical clustering
   - Density based spatial clustering (DBSCAN)
   - Self Organising Map (deep learning method)
- 
+
+
+# Dependencies
+
+  - Numpy
+  - Pandas (03.2020 : for pandas-profiling == 0.25.3)
+  - Matplotlib
+  - pandas_profiling
+  - sklearn
+  - yellowbrick
+  - scipy
+  - minisom
+  - pillow
+  - glob
+  
+  
+# Roadmap
+
+ 1. Data overview 
+ 2. Preprocessing
+ 3. K-means clustering
+ 4. Hierarchical clustering
+ 5. DBSCAN 
+ 6. Self Organising Map
+ 7. Summary
+
+
 # Data overview:
+
 Premilinary data exploartion was presented in YYY folder
 
 --in work--
-
