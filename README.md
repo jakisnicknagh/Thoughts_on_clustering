@@ -78,12 +78,6 @@ The goals was to build and compare some clustering methods:
 
 
 
-
 **Self Organising Map**
-
-
-![Self Organising Map](https://github.com/Fikus91/Thoughts_on_clustering/blob/master/4.%20Self%20Organising%20Map/Self%20Organising%20Map%2020.gif)
-
-
 
 --in work--
