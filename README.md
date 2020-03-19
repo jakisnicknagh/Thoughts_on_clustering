@@ -1,4 +1,5 @@
 # Thoughts_on_clustering - overview 
+
 This repository contains final project for Data Science bootcamp. Main topic is presentation some methods for clustering mixed data, for this case Titanic dataset was used.
 
 Clustering is a unsupervised method of machine learning, but could be used also in deep learning methodology. Mostly its helpful for data expolartion, and could be treated as prelimitary studies for classification.
