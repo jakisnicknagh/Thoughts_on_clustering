@@ -44,15 +44,15 @@ The goals was to build and compare some clustering methods:
 
 |Name | Cluster 1	| Cluster 2 |
 | ------------- | ------------- | ------------- |
-|Survived|	0.18739|	0.74367|
-|Pclass|	2.39054|	2.15190|
-|Age|	30.41361|	27.76899|
-|Siblings/Spouses Aboard|	0.43433|	0.68987|
-|Parents/Children Aboard|	0.23643|	0.64873|
-|Fare	| 23.92922|	47.44089|
-|Sex_female|	-0.00000|	0.99367|
-|Sex_male|	1.00000|	0.00633|
-|unique_obs	|571.00000|	316.00000|
+|Survived|	0.19	| 0.74
+|Pclass|	2.39|	2.15|
+|Age|	30.41|	27.77|
+|Siblings/Spouses Aboard|	0.43|	0.69|
+|Parents/Children Aboard|	0.24|	0.65|
+|Fare	| 23.93|	47.44|
+|Sex_female|	0.00|	0.99|
+|Sex_male|	1.00|	0.01|
+|unique_obs	|571|	316|
 
 
 --in work--
