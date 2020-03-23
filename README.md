@@ -9,7 +9,7 @@ This project was prepared as final project for Data Science bootcamp, will be pr
 # Goals
 
 The goals was to build and compare some clustering methods:
-  - K-Means clustering
+  - K-Means clustering and MiniBatchKMeans
   - Hierarchical clustering
   - Density based spatial clustering (DBSCAN)
   - Self Organising Map (deep learning method)
