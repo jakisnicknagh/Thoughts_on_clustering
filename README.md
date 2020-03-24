@@ -4,7 +4,7 @@ This repository contains final project for Data Science bootcamp. Main topic is 
 
 Clustering is a unsupervised method of machine learning, but could be used also in deep learning methodology. Mostly its helpful for data expolartion, and could be treated as prelimitary studies for classification.
 
-This project was prepared as final project for Data Science bootcamp, will be presented some methods of clustering in .
+This project was prepared as final project for Data Science bootcamp, will be presented some methods of clustering "mixed dataset".
 
 # Goals
 
