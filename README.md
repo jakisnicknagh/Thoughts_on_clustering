@@ -60,7 +60,14 @@ The goals was to build and compare some clustering methods:
 
 **Hierarchical clustering**
 
-![**Hierarchical clustering**](https://github.com/Fikus91/Thoughts_on_clustering/blob/master/3.%20Hierarchical_clustering/hierarchy_titanic_normalized.png.png)
+|   cluster_id |   unique_obs |   Survived |   Pclass |   Age |   Siblings/Spouses Aboard |   Parents/Children Aboard |   Fare |
+|-------------:|-------------:|-----------:|---------:|------:|--------------------------:|--------------------------:|-------:|
+|            1 |          144 |          0 |        3 |    22 |                         1 |                         0 |  7.25  |
+|            2 |          170 |          1 |        1 |    38 |                         1 |                         0 | 71.283 |
+|            3 |          343 |          1 |        3 |    26 |                         0 |                         0 |  7.925 |
+|            4 |          230 |          1 |        1 |    35 |                         1 |                         0 | 53.1   |
+
+![**Hierarchical clustering**](https://github.com/Fikus91/Thoughts_on_clustering/blob/master/3.%20Hierarchical_clustering/hierarchy_titanic_normalized.png)
 
 
 **DBSCAN**
