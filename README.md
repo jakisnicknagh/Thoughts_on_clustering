@@ -79,17 +79,7 @@ The goals was to build and compare some clustering methods:
 **DBSCAN**
 
 
-|Name|   Cluster     -1    | Cluster     0    | Cluster     1    | Cluster    2    | Cluster     3    |
-|:------------------------|-------:|-------:|-------:|------:|-------:|
-| Survived                |   0.42 |   0    |   1    |  0    |   1    |
-| Pclass                  |   2    |   2.48 |   1.92 |  2.89 |   2.03 |
-| Age                     |  23.85 |  31.17 |  29.09 | 25.11 |  27.51 |
-| Siblings/Spouses Aboard |   3.35 |   0.37 |   0.45 |  0.95 |   0.36 |
-| Parents/Children Aboard |   2.08 |   0.16 |   0.46 |  0.97 |   0.34 |
-| Fare                    | 174.39 |  19.62 |  46.52 | 17.81 |  32.01 |
-| Sex_female              |   0.5  |   0    |   1    |  1    |   0    |
-| Sex_male                |   0.5  |   1    |   0    |  0    |   1    |
-| unique_obs              |  26    | 454    | 225    | 76    | 106    |
+
 
 
 
