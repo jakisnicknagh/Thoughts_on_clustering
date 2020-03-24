@@ -60,12 +60,18 @@ The goals was to build and compare some clustering methods:
 
 **Hierarchical clustering**
 
-|   cluster_id |   unique_obs |   Survived |   Pclass |   Age |   Siblings/Spouses Aboard |   Parents/Children Aboard |   Fare |
-|-------------:|-------------:|-----------:|---------:|------:|--------------------------:|--------------------------:|-------:|
-|            1 |          144 |          0 |        3 |    22 |                         1 |                         0 |  7.25  |
-|            2 |          170 |          1 |        1 |    38 |                         1 |                         0 | 71.283 |
-|            3 |          343 |          1 |        3 |    26 |                         0 |                         0 |  7.925 |
-|            4 |          230 |          1 |        1 |    35 |                         1 |                         0 | 53.1   |
+|   cluster_id |   unique_obs |   Survived |   Pclass |   Age |   Siblings/Spouses Aboard |   Parents/Children Aboard |   Fare |   Sex_female |   Sex_male |
+|-------------:|-------------:|-----------:|---------:|------:|--------------------------:|--------------------------:|-------:|-------------:|-----------:|
+|            1 |           72 |          0 |        3 |    22 |                         1 |                         0 |  7.25  |            0 |          1 |
+|            2 |           72 |          1 |        1 |    38 |                         1 |                         0 | 71.283 |            1 |          0 |
+|            3 |           94 |          1 |        3 |    26 |                         0 |                         0 |  7.925 |            1 |          0 |
+|            4 |           76 |          1 |        1 |    35 |                         1 |                         0 | 53.1   |            1 |          0 |
+|            5 |           47 |          0 |        3 |    35 |                         0 |                         0 |  8.05  |            0 |          1 |
+|            6 |          296 |          0 |        3 |    27 |                         0 |                         0 |  8.458 |            0 |          1 |
+|            7 |           17 |          0 |        1 |    54 |                         0 |                         0 | 51.862 |            0 |          1 |
+|            8 |           91 |          0 |        3 |     2 |                         3 |                         1 | 21.075 |            0 |          1 |
+|            9 |           77 |          1 |        3 |    27 |                         0 |                         2 | 11.133 |            1 |          0 |
+|           10 |           45 |          1 |        2 |    14 |                         1 |                         0 | 30.071 |            1 |          0 |
 
 ![**Hierarchical clustering**](https://github.com/Fikus91/Thoughts_on_clustering/blob/master/3.%20Hierarchical_clustering/hierarchy_titanic_normalized.png)
 
